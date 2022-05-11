@@ -1,0 +1,307 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Circuit Mirrored Sunglasses",
+      "type": "Glasses",
+      "rating": 4,
+      "color": "Black/Egret/Digital Blue",
+      "sale_price": 0,
+      "price": 79,
+      "image": "city-aviator-mirrored-sunglasses-m4PsdV.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "With their square lenses and keyhole nose bridge, the Nike Circuit Mirrored Sunglasses carve a strong style path. Lightweight materials and subtle nose padding make them super wearable."
+    },
+    {
+      "id": 2,
+      "name": "Zoom Pegasus 38",
+      "type": "Shoes",
+      "rating": 3,
+      "color": "Egret/Digital Blue/Egret",
+      "sale_price": 24,
+      "price": 120,
+      "image": "air-zoom-pegasus-38-mens-road-running-shoes-lq7PZZ.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "The road is your runway. Get ready to take flight in the workhorse with wings. Back with extra bounce that’s perfect for hitting the pavement. Whether you’re racking up everyday miles or on your long run, feel the spring in your step with the same cushioned support as its predecessor. Breathable mesh in the upper combines the comfort and durability you want with a wider fit at the toes."
+    },
+    {
+      "id": 3,
+      "name": "FC Barcelona Heritage86",
+      "type": "Hat",
+      "rating": 5,
+      "color": "Vintage White/Egret/Black",
+      "sale_price": 16,
+      "price": 28,
+      "image": "fc-barcelona-heritage86-hat-HVZpsl.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Top off your game-day outfit with the FC Barcelona Heritage86 Hat. Its classic 6-panel design provides a timeless look and durability for the season."
+    },
+    {
+      "id": 4,
+      "name": "Air Max 270",
+      "type": "Shoes",
+      "rating": 2,
+      "color": "Black/White",
+      "sale_price": 105,
+      "price": 170,
+      "image": "air-max-270-mens-shoes-KkLcGR.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Enjoy the sleek design of the Nike Air Max 270 in bright, warm hues. An extra-large Max Air unit provides ultra-plush cushioning under every step and a dramatic style statement, while the stretchy inner sleeve provides a snug, socklike fit that's sure to keep you comfortable all day, every day."
+    },
+    {
+      "id": 5,
+      "name": "Kyrie Crossbody Bag (4L)",
+      "type": "Bag",
+      "rating": 3,
+      "color": "Vintage White/Egret/Black",
+      "sale_price": 40,
+      "price": 45,
+      "image": "kyrie-crossbody-bag-4l-Hh0RMC.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Keep your essential safe and within easy reach with the Kyrie Crossbody Bag. Lightweight and compact, it helps organize small items with the zippered compartment and expandable front pocket. Plus, you can attach extra gear to the D-ring, cord loop or webbing loop."
+    },
+    {
+      "id": 6,
+      "name": "VaporMax 2021 FK",
+      "type": "Shoes",
+      "rating": 4,
+      "color": "Vintage White/Egret/Black",
+      "sale_price": 0,
+      "price": 210,
+      "image": "air-vapormax-plus-mens-shoes-nC0dzF.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Made from at least 20% recycled materials by weight, the Nike Air VaporMax 2021 FK is airy and easy to wear with superstretchy, recycled Flyknit fabric (plus a soft collar that sculpts your ankle). The stitched-on Swoosh and recycled TPU heel clip add a splash of intrigue as you float down the streets on incredibly soft VaporMax cushioning."
+    },
+    {
+      "id": 7,
+      "name": "Sportswear",
+      "type": "Hat",
+      "rating": 2,
+      "color": "black/true white",
+      "sale_price": 10,
+      "price": 19,
+      "image": "sportswear-womens-beanie-tDrjcJ.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "The Nike Set includes a cuffed beanie and matching gloves made from supersoft knit fabric for staying warm in the cold."
+    },
+    {
+      "id": 8,
+      "name": "Air Max 90",
+      "type": "Shoes",
+      "rating": 1,
+      "sale_price": 120,
+      "price": 130,
+      "image": "air-max-90-mens-shoes-6n3vKB.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Nothing as fly, nothing as comfortable, nothing as proven—the Nike Air Max 90 stays true to its roots with the iconic Waffle sole, stitched overlays and classic TPU accents. Fresh details give a modern look while Max Air cushioning adds comfort to your journey."
+    },
+    {
+      "id": 9,
+      "name": "Pro 'Sports Specialties' Script",
+      "type": "Hat",
+      "rating": 5,
+      "color": "Black/White/White",
+      "sale_price": 0,
+      "price": 22,
+      "image": "pro-sports-specialties-script-cap-THgBfK.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Pro 'Sports Specialties' Script"
+    },
+    {
+      "id": 10,
+      "name": "Pegasus Trail 3 GORE-TEX",
+      "type": "Shoes",
+      "rating": 4,
+      "color": "Black/Multi/White",
+      "sale_price": 125,
+      "price": 160,
+      "image": "pegasus-trail-3-gore-tex-mens-running-shoes-HG005k.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Over the river and through the woods, you're ready for it all. These trail running shoes have improved structure and durability while maintaining flexibility wherever your run takes you. Lugs and improved traction help keep you steady on rough terrain. The water-resistant upper helps keep you moving on rocky trails even when stormy conditions try to slow you down. Don't let the rain stop you, lace up and take on the elements."
+    },
+    {
+      "id": 11,
+      "name": "Aviator Mirrored Sunglasses",
+      "type": "Glasses",
+      "rating": 4,
+      "color": "Vintage White/Egret/Black",
+      "sale_price": 70,
+      "price": 75,
+      "image": "city-aviator-sunglasses-Mh8KfQ.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Bring the bold in this metal-accented aviator frame. Shiny details and sleek angles make the Nike City Aviator Sunglasses a go-to pair for conquering your day."
+    },
+    {
+      "id": 12,
+      "name": "React Infinity Run Flyknit 2",
+      "type": "Shoes",
+      "rating": 5,
+      "color": "White/Black/Bold Pink",
+      "sale_price": 0,
+      "price": 150,
+      "image": "react-infinity-run-flyknit-2-mens-road-running-shoes-DttDF2.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "The Nike React Infinity Run Flyknit 2 continues to help keep you running. A refreshed upper uses Flywire technology that combines with Flyknit for support and breathability where you need it. The high foam heights provide soft responsiveness and long-lasting comfort, plus a wider forefoot for added stability. It's still one of our most tested shoes, designed to help you feel the potential when your foot hits the pavement."
+    },
+    {
+      "id": 13,
+      "name": "Skull Wrap",
+      "type": "Hat",
+      "rating": 3,
+      "color": "Blocks Flyer/white/reflective",
+      "sale_price": 13,
+      "price": 18,
+      "image": "jordan-skull-wrap-lq6Vff.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Surround yourself with comfort in the Jordan Skull Wrap. Stretchy fabric with sweat-wicking technology pairs with an open-top design to give you maximum ventilation, helping you stay cool and dry."
+    },
+    {
+      "id": 14,
+      "name": "Aero Swift Sunglasses",
+      "type": "Glasses",
+      "rating": 2,
+      "color": "Blocks Flyer/white/reflective",
+      "sale_price": 80,
+      "price": 89,
+      "image": "bout-sunglasses-g4XsH2.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Inspired by retro performance running eyewear, the Nike Aero Swift Sunglasses have a flying lens to reduce fogging while air circulates around the lens, keeping you cool throughout your workout. This lightweight frame offers a sport wrap fit with rubber temple tips for comfort and secure grip."
+    },
+    {
+      "id": 15,
+      "name": "Heritage Crossbody Bag (4L)",
+      "type": "Bag",
+      "rating": 5,
+      "color": "Sunflower Gold/Egret/Aegean Storm",
+      "sale_price": 20,
+      "price": 25,
+      "image": "heritage-crossbody-bag-4l-r5H46H.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Keep the small stuff out of your pockets with the Nike Heritage Crossbody Bag. 2 zippered compartments help keep your essentials organized and easy to grab. An adjustable strap provides styling and fit options while the allover print provides a fresh look you can pair with almost any outfit. This product is made with at least 65% recycled polyester fibers."
+    },
+    {
+      "id": 16,
+      "name": "Club América Heritage86",
+      "type": "Hat",
+      "rating": 2,
+      "color": "Yellow",
+      "sale_price": 0,
+      "price": 26,
+      "image": "club-américa-heritage86-hat-DpM0fs.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Top off your look with the Club América Heritage86 Hat, delivering a 6-panel design and sweat-wicking fabric to help keep you cool while you represent the Eagles. This product is made with 100% recycled polyester fibers."
+    }
+  ]
+}
