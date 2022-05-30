@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Circuit Mirrored Sunglasses",
-      "type": "Glasses",
+      "name": "Nike Air Force 1 '07 Craft",
+      "type": "Shoes",
       "rating": 4,
-      "color": ["red","black","crimson","teal"],
+      "color": ["red","black","crimson","white"],
       "sale_price": 0,
       "price": 79,
-      "image": "city-aviator-mirrored-sunglasses-m4PsdV.jpg",
+      "image": "Nike_Air_Force_1_'07_Craft.jpg",
       "sizes": [
         5.5,
         6,
@@ -17,7 +17,7 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "With their square lenses and keyhole nose bridge, the Nike Circuit Mirrored Sunglasses carve a strong style path. Lightweight materials and subtle nose padding make them super wearable."
+      "desc": "The legend lives on in the Nike Air Force 1 '07 Craft—a modern take on the iconic AF-1 with new details like fresh graphics on the tongue and heel. Crisp leather, brushed suede and exposed stitching on the upper add texture and depth while the new plush liner feels soft and comfortable. Its redesigned shape returns to OG roots, adding heritage style."
     },
     {
       "id": 2,
@@ -40,22 +40,21 @@
     },
     {
       "id": 3,
-      "name": "FC Barcelona Heritage86",
-      "type": "Hat",
+      "name": "Nike Dunk High Retro SE",
+      "type": "Shoes",
       "rating": 5,
-      "color": ["lightblue","white","crimson","teal"],
-      "sale_price": 16,
-      "price": 28,
-      "image": "fc-barcelona-heritage86-hat-HVZpsl.jpg",
+      "color": ["lightblue","white","crimson","blue"],
+      "sale_price": 46,
+      "price": 56,
+      "image": "Nike_Dunk_High_Retro_SE.jpg",
       "sizes": [
-        5.5,
         6,
         6.5,
         7,
         7.5
       ],
       "quantity": 0,
-      "desc": "Top off your game-day outfit with the FC Barcelona Heritage86 Hat. Its classic 6-panel design provides a timeless look and durability for the season."
+      "desc": "Go full throttle in the Nike Dunk Low High Retro.It brings motocross-inspired details like bold branding, reflective accents and fresh materials to the wardrobe favourite.Crisp leather, bright panels and flashy details deliver high-octane energy."
     },
     {
       "id": 4,
@@ -78,22 +77,21 @@
     },
     {
       "id": 5,
-      "name": "Kyrie Crossbody Bag (4L)",
-      "type": "Bag",
+      "name": "Nike Blazer Mid '77 Jumbo",
+      "type": "Shoes",
       "rating": 3,
       "color": ["black","white"],
-      "sale_price": 40,
-      "price": 45,
-      "image": "kyrie-crossbody-bag-4l-Hh0RMC.jpg",
+      "sale_price": 58,
+      "price": 70,
+      "image": "Nike_Blazer_Mid_'77_Jumbo.jpg",
       "sizes": [
-        5.5,
         6,
         6.5,
         7,
         7.5
       ],
       "quantity": 0,
-      "desc": "Keep your essential safe and within easy reach with the Kyrie Crossbody Bag. Lightweight and compact, it helps organize small items with the zippered compartment and expandable front pocket. Plus, you can attach extra gear to the D-ring, cord loop or webbing loop."
+      "desc": "Praised by many for its enduring look and feel, the wardrobe staple hits refresh with the Nike Blazer Mid '77 Jumbo.Harnessing the old-school look you love, it now has an elastic heel with corduroy-like texture and large pull tabs for easy on and off.The oversized Swoosh design and jumbo laces add a fun twist."
     },
     {
       "id": 6,
@@ -116,22 +114,21 @@
     },
     {
       "id": 7,
-      "name": "Sportswear",
-      "type": "Hat",
+      "name": "Nike Go FlyEase",
+      "type": "Shoes",
       "rating": 2,
       "color": ["blue","white"],
       "sale_price": 10,
       "price": 19,
-      "image": "sportswear-womens-beanie-tDrjcJ.jpg",
+      "image": "Nike_Go_FlyEase.jpg",
       "sizes": [
-        5.5,
         6,
         6.5,
         7,
         7.5
       ],
       "quantity": 0,
-      "desc": "The Nike Set includes a cuffed beanie and matching gloves made from supersoft knit fabric for staying warm in the cold."
+      "desc": "Just when you thought you'd seen it all, Nike wows with an all-new way to quickly and easily get into your shoes.The entire heel (including the sole) of the Nike Go FlyEase hinges open for a totally hands-free entry.Slip in, step down and presto!You're all set."
     },
     {
       "id": 8,
@@ -154,13 +151,13 @@
     },
     {
       "id": 9,
-      "name": "Pro 'Sports Specialties' Script",
-      "type": "Hat",
+      "name": "Nike Waffle Debut",
+      "type": "Shoes",
       "rating": 5,
       "color": ["black","lightblue","black"],
       "sale_price": 0,
       "price": 22,
-      "image": "pro-sports-specialties-script-cap-THgBfK.jpg",
+      "image": "Nike_Waffle_Debut.jpg",
       "sizes": [
         5.5,
         6,
@@ -169,7 +166,7 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Pro 'Sports Specialties' Script"
+      "desc": "Retro gets modernised in the Nike Waffle Debut. Remember that smooth suede and nylon trend? It's back, along with the modernised 'wedge' midsole that feels incredibly plush. And to top it off, we've kept the classic on the bottom—the tried, true and trusted Waffle outsole—that adds traction, durability and heritage style to your step."
     },
     {
       "id": 10,
@@ -192,13 +189,13 @@
     },
     {
       "id": 11,
-      "name": "Aviator Mirrored Sunglasses",
-      "type": "Glasses",
+      "name": "Nike Air Max 270 G",
+      "type": "Shoes",
       "rating": 4,
       "color": ["black","green"],
       "sale_price": 70,
       "price": 75,
-      "image": "city-aviator-sunglasses-Mh8KfQ.jpg",
+      "image": "Nike_Air_Max_270_G.jpg",
       "sizes": [
         5.5,
         6,
@@ -207,7 +204,7 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Bring the bold in this metal-accented aviator frame. Shiny details and sleek angles make the Nike City Aviator Sunglasses a go-to pair for conquering your day."
+      "desc": "Look legendary in the Nike Air Max 270 G. The silhouette is a stitch-for-stitch reconstruction of the original big Air icon, with the addition of breathable mesh and innovative traction that performs at the highest level of play."
     },
     {
       "id": 12,
@@ -230,13 +227,13 @@
     },
     {
       "id": 13,
-      "name": "Skull Wrap",
-      "type": "Hat",
+      "name": "Nike ZoomX Vaporfly Next% 2",
+      "type": "Shoes",
       "rating": 3,
-      "color": ["black","white","crimson"],
+      "color": ["Siren Red","Dark Smoke Grey","Summit White"],
       "sale_price": 13,
       "price": 18,
-      "image": "jordan-skull-wrap-lq6Vff.jpg",
+      "image": "Nike_ZoomX_Vaporfly_Next%_2.jpg",
       "sizes": [
         5.5,
         6,
@@ -245,17 +242,17 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Surround yourself with comfort in the Jordan Skull Wrap. Stretchy fabric with sweat-wicking technology pairs with an open-top design to give you maximum ventilation, helping you stay cool and dry."
+      "desc": "Continue the next evolution of speed with a racing shoe made to help you chase new goals and records. It helps improve comfort and breathability with a redesigned upper. From a 10K to a marathon, this model, like the previous version, has the responsive cushioning and secure support to push you towards your personal best."
     },
     {
       "id": 14,
-      "name": "Aero Swift Sunglasses",
-      "type": "Glasses",
+      "name": "Nike SuperRep Go 3 Next Nature Flyknit",
+      "type": "Shoes",
       "rating": 2,
       "color": ["white","blue"],
       "sale_price": 80,
       "price": 89,
-      "image": "bout-sunglasses-g4XsH2.jpg",
+      "image": "Nike_SuperRep_Go_3_Next_Nature_Flyknit.jpg",
       "sizes": [
         5.5,
         6,
@@ -264,17 +261,17 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Inspired by retro performance running eyewear, the Nike Aero Swift Sunglasses have a flying lens to reduce fogging while air circulates around the lens, keeping you cool throughout your workout. This lightweight frame offers a sport wrap fit with rubber temple tips for comfort and secure grip."
+      "desc": "The new Nike SuperRep Go 3 Flyknit Shoe is a radical design story rooted in sustainability and innovation. The zoned Flyknit construction wraps your foot in 360 degrees of comfort and support. A finely ground, reclaimed foam midsole gives you responsive cushioning for high-impact training. The lightweight, packable design lets you keep them close, no matter where your next workout takes you."
     },
     {
       "id": 15,
-      "name": "Heritage Crossbody Bag (4L)",
-      "type": "Bag",
+      "name": "Air Jordan XXXVI SE",
+      "type": "Shoes",
       "rating": 5,
       "color": ["orange","black"],
       "sale_price": 20,
       "price": 25,
-      "image": "heritage-crossbody-bag-4l-r5H46H.jpg",
+      "image": "Air_Jordan_XXXV_SE.jpg",
       "sizes": [
         5.5,
         6,
@@ -283,17 +280,17 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Keep the small stuff out of your pockets with the Nike Heritage Crossbody Bag. 2 zippered compartments help keep your essentials organized and easy to grab. An adjustable strap provides styling and fit options while the allover print provides a fresh look you can pair with almost any outfit. This product is made with at least 65% recycled polyester fibers."
+      "desc": "Breaking barriers and making history as the first Japanese-born player to be a first-round draft pick is just the start for Rui Hachimura. With the world's biggest games in his home country for the first time in over 50 years, Rui knows he's here for a reason. Inspired by all of the places Rui can take basketball, the Air Jordan XXXVI SE 'Black Samurai' celebrates the purpose and pride that comes with repping your country's colours."
     },
     {
       "id": 16,
-      "name": "Club América Heritage86",
-      "type": "Hat",
+      "name": "Nike Streetgato",
+      "type": "Shoes",
       "rating": 2,
       "color": ["Yellow","blue"],
       "sale_price": 0,
       "price": 26,
-      "image": "club-américa-heritage86-hat-DpM0fs.jpg",
+      "image": "Nike_Streetgato.jpg",
       "sizes": [
         5.5,
         6,
@@ -302,7 +299,45 @@
         7.5
       ],
       "quantity": 0,
-      "desc": "Top off your look with the Club América Heritage86 Hat, delivering a 6-panel design and sweat-wicking fabric to help keep you cool while you represent the Eagles. This product is made with 100% recycled polyester fibers."
+      "desc": "Rule the streets in the Nike Streetgato.They blend performance details with streetwear flair so you can be ready to play at any moment."
+    },
+    {
+      "id": 17,
+      "name": "Nike Aqua Rift Premium",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["red","blue"],
+      "sale_price": 50,
+      "price": 69,
+      "image": "Nike_Aqua_Rift_Premium.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Step into summer with a shoe that blends features from 2 '90s classics to create something both retro and futuristic. The iconic split toe of the Nike Air Rift gives you flexible comfort (and a look unlike anything else on the streets), while exaggerated shapes from the Nike Aqua line bring an ultra-modern feel. Slip them on and feel free to splash through whatever adventures you find."
+    },
+    {
+      "id": 18,
+      "name": "Nike Aqua Rift Premium",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["red","yellow","green","pink"],
+      "sale_price": 100,
+      "price": 109,
+      "image": "Nike_Air_Presto_x_Hello_Kitty.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Let myth become reality and step into a world of rainbows and sunshine with the Nike Air Presto x Hello Kitty. From the custom-moulded Hello Kitty heel to her red bow on the tongue, your favourite super-cute cartoon character joins your journey."
     }
   ]
 }
