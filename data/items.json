@@ -305,7 +305,7 @@
       "id": 17,
       "name": "Nike Aqua Rift Premium",
       "type": "Shoes",
-      "rating": 5,
+      "rating": 3,
       "color": ["red","blue"],
       "sale_price": 50,
       "price": 69,
@@ -338,6 +338,268 @@
       ],
       "quantity": 0,
       "desc": "Let myth become reality and step into a world of rainbows and sunshine with the Nike Air Presto x Hello Kitty. From the custom-moulded Hello Kitty heel to her red bow on the tongue, your favourite super-cute cartoon character joins your journey."
+    },
+    {
+      "id": 19,
+      "name": "PG 6 EP",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["white","yellow","green","black"],
+      "sale_price": 121,
+      "price": 159,
+      "image": "PG_6_EP.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Paul George does it all on the court, comfortably. He can take it to the hole, drive and dish, catch and shoot—always smooth, frequently devastating. Made from plush materials, his signature PG 6 EP is designed to feel light and buoyant, like you're walking on clouds."
+    },
+    {
+      "id": 20,
+      "name": "Nike Air Max Terrascape 97",
+      "type": "Shoes",
+      "rating": 2,
+      "color": ["white","yellow","green","red"],
+      "sale_price": 0,
+      "price": 125,
+      "image": "Nike_Air_Max_Terrascape_97.jpg",
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Looking to nature for inspiration, the Nike Air Max Terrascape 97 lets you push your style full speed ahead. Made from at least 20% recycled materials by weight and with added durability (check out the reinforced mudguard), no detail is overlooked. Upping the ante, durable plastic in high-wear areas features speckled Nike Grind for a playful look."
+    },
+    {
+      "id": 21,
+      "name": "Nike Air Zoom Infinity Tour NXT",
+      "type": "Shoes",
+      "rating": 4,
+      "color": ["white","blue","red"],
+      "sale_price": 55,
+      "price": 86,
+      "image": "Nike_Air_Zoom_Infinity_Tour_NXT.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "We listened to your feedback on the Infinity Tour, refined it and brought it to life on the Nike Air Zoom Infinity Tour NXT%. We increased the overall volume to give your foot more room. We put 2 extra-large Zoom Air units in the forefoot for even more energy transfer through your swing. And we added more traction in key areas to help reduce slipping. The result is an incredibly responsive, comfortable shoe with design details inspired by a legendary golf course."
+    },
+    {
+      "id": 22,
+      "name": "Nike Air Force 1 '07 LV8 EMB",
+      "type": "Shoes",
+      "rating": 3,
+      "color": ["white","blue","green"],
+      "sale_price": 0,
+      "price": 90,
+      "image": "Nike_Air_Force_1_'07_LV8_EMB.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "The radiance lives on with the b-ball original. Crossing hardwood comfort with off-court flair, it puts a fresh spin on what you know best: era-echoing, '80s construction, bold details and nothin'-but-net style."
+    },
+    {
+      "id": 23,
+      "name": "Nike Air Force 1 Mid '07 LX",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["black"],
+      "sale_price": 60,
+      "price": 90,
+      "image": "Nike_Air_Force_1_Mid_'07_LX.jpg",
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Let your rebellious spirit shine through in the Air Force 1 Mid '07 LX. Crisp synthetic leather overlays, bold accents and the perfect amount of flash lend this streetwear staple a bit of edge. Expressive details on the insoles add a hint of attitude, while the padded, mid-cut collar and classic hook-and-loop closures bring heritage b-ball comfort."
+    },
+    {
+      "id": 24,
+      "name": "Vast Grey",
+      "type": "Shoes",
+      "rating": 3,
+      "color": ["grey"],
+      "sale_price": 200,
+      "price": 210,
+      "image": "Vast_Grey.jpg",
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Stare into the grey and this Dunk Low may emerge. Dressed in contrasting hues of Vast Grey, Summit White, Peal White and Light Bone, this makeup is meant for keeping your style low-key, but fresh this season. It's a colourway so neutral—yet present, thanks to classic Dunk stylings—that it goes with anything. The all-over suede upper adds a premium, cosy touch to a Dunk Low that's ready to step out of the void and complete your fit."
+    },
+    {
+      "id": 25,
+      "name": "Nike Dunk High Retro Premium EMB",
+      "type": "Shoes",
+      "rating": 4,
+      "color": ["orange","white"],
+      "sale_price": 150,
+      "price": 180,
+      "image": "Nike_Dunk_High_Retro_Premium_EMB.jpg",
+      "sizes": [
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Get Dunked. Your hoops icon gets done up with a basketball-like texture and twin pins that represent the WNBA and NBA. Wear the pins on your shoes, hat or wherever fits your style for the day."
+    },
+    {
+      "id": 26,
+      "name": "Nike React Miler 3",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["red","black","white"],
+      "sale_price": 150,
+      "price": 180,
+      "image": "Nike_React_Miler_3.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Cushioned and comfortable, just like every run should feel. The Nike React Miler 3 gives you a soft and smooth ride as your feet hit the pavement. We added stability in the heel for a secure sensation, while durable traction helps keep you going on runs long and short."
+    },
+    {
+      "id": 27,
+      "name": "Nike Air Max Excee",
+      "type": "Shoes",
+      "rating": 4,
+      "color": ["orange","white"],
+      "sale_price": 180,
+      "price": 200,
+      "image": "Nike_Air_Max_Excee.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Inspired by the Nike Air Max 90, the Nike Air Max Excee is a celebration of a classic through a new lens. Elongated lines and distorted proportions on the upper bring the '90s look you love into a new, modern space."
+    },
+    {
+      "id": 28,
+      "name": "Nike Overbreak",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["orange","white"],
+      "sale_price": 80,
+      "price": 90,
+      "image": "Nike_Overbreak.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Merging the iconic BRS athletics aesthetic with hyper-modern Nike OverReact details, the Nike Overbreak delivers head-turning style and comfort.Synthetic overlays mix with textile materials for added sophistication.Thick laces and foam exaggerate your expression."
+    },
+    {
+      "id": 29,
+      "name": "Kyrie Infinity EP",
+      "type": "Shoes",
+      "rating": 4,
+      "color": ["blue","white","orange"],
+      "sale_price": 0,
+      "price": 80,
+      "image": "Kyrie_Infinity_EP.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "The faster Kyrie slows down, the quicker he can speed up or change direction. His ability to control his movement keeps defenders guessing—and him in control. The Kyrie Infinity EP provides a cushioned, custom fit and traction up the sides, allowing players to accelerate and decelerate on demand and take advantage of the separation they create."
+    },
+    {
+      "id": 30,
+      "name": "Nike Tiempo Legend 9 Academy TF",
+      "type": "Shoes",
+      "rating": 4,
+      "color": ["red","black"],
+      "sale_price": 100,
+      "price": 150,
+      "image": "Nike_Tiempo_Legend_9_Academy_TF.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Academy TF lets you go on the offensive with a low-profile design that's reinvented for attackers. The upper features raised areas throughout the strike zone for precise dribbling, passing and shooting, while a rubber sole helps supercharge traction on turf."
+    },
+    {
+      "id": 31,
+      "name": "Nike Defy All Day",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["white","black"],
+      "sale_price": 110,
+      "price": 120,
+      "image": "Nike_Defy_All_Day.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Take on everyday challenges in the Nike Defy All Day. Leather up top and rubber traction on the bottom create a durable design that lasts the rigours of tough training sessions. Soft cushioning carries comfort through your workout—or a day of getting things done."
+    },
+    {
+      "id": 32,
+      "name": "Nike Air Pegasus 83 Premium",
+      "type": "Shoes",
+      "rating": 5,
+      "color": ["brown"],
+      "sale_price": 120,
+      "price": 150,
+      "image": "Nike_Air_Pegasus_83_Premium.jpg",
+      "sizes": [
+        5.5,
+        6,
+        6.5,
+        7,
+        7.5
+      ],
+      "quantity": 0,
+      "desc": "Travel first class without reservations in the Nike Air Pegasus 83 Premium—the callback classic. With a splash of running history, a dash of retro and a whole lot of comfort, it's your go-to for tried and tested. A mix of materials are easy to style while plush padding around the ankle keeps it feeling like your favourite armchair. You don't need a plane to take you places. Just lace up and arrive looking fresh."
     }
   ]
 }
