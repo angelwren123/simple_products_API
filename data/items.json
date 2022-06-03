@@ -8,7 +8,7 @@
       "color": ["red","black","crimson","white"],
       "sale_price": 0,
       "price": 79,
-      "image": "Nike_Air_Force_1_'07_Craft.jpg",
+      "image": "https://i.imgur.com/j4Qy9Dy.jpg",
       "sizes": [
         5.5,
         6,
@@ -27,7 +27,7 @@
       "color": ["red","crimson","teal"],
       "sale_price": 24,
       "price": 120,
-      "image": "air-zoom-pegasus-38-mens-road-running-shoes-lq7PZZ.jpg",
+      "image": "https://i.imgur.com/UrH98ZF.jpg",
       "sizes": [
         5.5,
         6,
@@ -46,7 +46,7 @@
       "color": ["lightblue","white","crimson","blue"],
       "sale_price": 46,
       "price": 56,
-      "image": "Nike_Dunk_High_Retro_SE.jpg",
+      "image": "https://i.imgur.com/GRczZR9.jpg",
       "sizes": [
         6,
         6.5,
@@ -64,7 +64,7 @@
       "color": ["orange","black","crimson","teal"],
       "sale_price": 105,
       "price": 170,
-      "image": "air-max-270-mens-shoes-KkLcGR.jpg",
+      "image": "https://i.imgur.com/fgb5TPg.jpg",
       "sizes": [
         5.5,
         6,
@@ -83,7 +83,7 @@
       "color": ["black","white"],
       "sale_price": 58,
       "price": 70,
-      "image": "Nike_Blazer_Mid_'77_Jumbo.jpg",
+      "image": "https://i.imgur.com/0uokPEc.jpg",
       "sizes": [
         6,
         6.5,
@@ -101,7 +101,7 @@
       "color": ["orange","black","crimson","teal"],
       "sale_price": 0,
       "price": 210,
-      "image": "air-vapormax-plus-mens-shoes-nC0dzF.jpg",
+      "image": "https://i.imgur.com/mZAe5S4.jpg",
       "sizes": [
         5.5,
         6,
@@ -120,7 +120,7 @@
       "color": ["blue","white"],
       "sale_price": 10,
       "price": 19,
-      "image": "Nike_Go_FlyEase.jpg",
+      "image": "https://i.imgur.com/7x8z27Q.jpg",
       "sizes": [
         6,
         6.5,
@@ -138,7 +138,7 @@
       "color": ["black","white"],
       "sale_price": 120,
       "price": 130,
-      "image": "air-max-90-mens-shoes-6n3vKB.jpg",
+      "image": "https://i.imgur.com/nDSI1rU.jpg",
       "sizes": [
         5.5,
         6,
@@ -157,7 +157,7 @@
       "color": ["black","lightblue","black"],
       "sale_price": 0,
       "price": 22,
-      "image": "Nike_Waffle_Debut.jpg",
+      "image": "https://i.imgur.com/bjqNMav.jpg",
       "sizes": [
         5.5,
         6,
@@ -176,7 +176,7 @@
       "color": ["white"],
       "sale_price": 125,
       "price": 160,
-      "image": "pegasus-trail-3-gore-tex-mens-running-shoes-HG005k.jpg",
+      "image": "https://i.imgur.com/4cKj7s1.jpg",
       "sizes": [
         5.5,
         6,
@@ -195,7 +195,7 @@
       "color": ["black","green"],
       "sale_price": 70,
       "price": 75,
-      "image": "Nike_Air_Max_270_G.jpg",
+      "image": "https://i.imgur.com/68MmAs3.jpg",
       "sizes": [
         5.5,
         6,
@@ -214,7 +214,7 @@
       "color": ["Pink","red","black"],
       "sale_price": 0,
       "price": 150,
-      "image": "react-infinity-run-flyknit-2-mens-road-running-shoes-DttDF2.jpg",
+      "image": "https://i.imgur.com/OD2SLZR.jpg",
       "sizes": [
         5.5,
         6,
@@ -233,7 +233,7 @@
       "color": ["Pink","red","black"],
       "sale_price": 13,
       "price": 18,
-      "image": "Nike_ZoomX_Vaporfly_Next_2.jpg",
+      "image": "https://i.imgur.com/yMlcr1v.jpg",
       "sizes": [
         5.5,
         6,
@@ -252,7 +252,7 @@
       "color": ["white","blue"],
       "sale_price": 80,
       "price": 89,
-      "image": "Nike_SuperRep_Go_3_Next_Nature_Flyknit.jpg",
+      "image": "https://i.imgur.com/IfhqPah.jpg",
       "sizes": [
         5.5,
         6,
@@ -271,7 +271,7 @@
       "color": ["orange","black"],
       "sale_price": 20,
       "price": 25,
-      "image": "Air_Jordan_XXXV_SE.jpg",
+      "image": "https://i.imgur.com/RpBckjp.jpg",
       "sizes": [
         5.5,
         6,
@@ -290,7 +290,7 @@
       "color": ["Yellow","blue"],
       "sale_price": 0,
       "price": 26,
-      "image": "Nike_Streetgato.jpg",
+      "image": "https://i.imgur.com/aEM2aqf.jpg",
       "sizes": [
         5.5,
         6,
@@ -309,7 +309,7 @@
       "color": ["red","blue"],
       "sale_price": 50,
       "price": 69,
-      "image": "Nike_Aqua_Rift_Premium.jpg",
+      "image": "https://i.imgur.com/yuTQAhu.jpg",
       "sizes": [
         5.5,
         6,
@@ -328,7 +328,7 @@
       "color": ["red","yellow","green","pink"],
       "sale_price": 100,
       "price": 109,
-      "image": "Nike_Air_Presto_x_Hello_Kitty.jpg",
+      "image": "https://i.imgur.com/haqkPHV.jpg",
       "sizes": [
         5.5,
         6,
@@ -347,7 +347,7 @@
       "color": ["white","yellow","green","black"],
       "sale_price": 121,
       "price": 159,
-      "image": "PG_6_EP.jpg",
+      "image": "https://i.imgur.com/5zQ2Y5m.jpg",
       "sizes": [
         5.5,
         6,
@@ -366,7 +366,7 @@
       "color": ["white","yellow","green","red"],
       "sale_price": 0,
       "price": 125,
-      "image": "Nike_Air_Max_Terrascape_97.jpg",
+      "image": "https://i.imgur.com/bjqNMav.jpg",
       "sizes": [
         6,
         6.5,
@@ -384,7 +384,7 @@
       "color": ["white","blue","red"],
       "sale_price": 55,
       "price": 86,
-      "image": "Nike_Air_Zoom_Infinity_Tour_NXT.jpg",
+      "image": "https://i.imgur.com/CzPaTkG.jpg",
       "sizes": [
         5.5,
         6,
@@ -403,7 +403,7 @@
       "color": ["white","blue","green"],
       "sale_price": 0,
       "price": 90,
-      "image": "Nike_Air_Force_1_'07_LV8_EMB.jpg",
+      "image": "https://i.imgur.com/ztiG1LM.jpg",
       "sizes": [
         5.5,
         6,
@@ -422,7 +422,7 @@
       "color": ["black"],
       "sale_price": 60,
       "price": 90,
-      "image": "Nike_Air_Force_1_Mid_'07_LX.jpg",
+      "image": "https://i.imgur.com/rIkdJD6.jpg",
       "sizes": [
         6,
         6.5,
@@ -440,7 +440,7 @@
       "color": ["grey"],
       "sale_price": 200,
       "price": 210,
-      "image": "Vast_Grey.jpg",
+      "image": "https://i.imgur.com/gwgSn2o.jpg",
       "sizes": [
         6,
         6.5,
@@ -458,7 +458,7 @@
       "color": ["orange","white"],
       "sale_price": 150,
       "price": 180,
-      "image": "Nike_Dunk_High_Retro_Premium_EMB.jpg",
+      "image": "https://i.imgur.com/tssohH4.jpg",
       "sizes": [
         6,
         6.5,
@@ -476,7 +476,7 @@
       "color": ["red","black","white"],
       "sale_price": 150,
       "price": 180,
-      "image": "Nike_React_Miler_3.jpg",
+      "image": "https://i.imgur.com/nWg7fVQ.jpg",
       "sizes": [
         5.5,
         6,
@@ -495,7 +495,7 @@
       "color": ["orange","white"],
       "sale_price": 180,
       "price": 200,
-      "image": "Nike_Air_Max_Excee.jpg",
+      "image": "https://i.imgur.com/JKmP8R8.jpg",
       "sizes": [
         5.5,
         6,
@@ -514,7 +514,7 @@
       "color": ["orange","white"],
       "sale_price": 80,
       "price": 90,
-      "image": "Nike_Overbreak.jpg",
+      "image": "https://i.imgur.com/iWlWNUk.jpg",
       "sizes": [
         5.5,
         6,
@@ -533,7 +533,7 @@
       "color": ["blue","white","orange"],
       "sale_price": 0,
       "price": 80,
-      "image": "Kyrie_Infinity_EP.jpg",
+      "image": "https://i.imgur.com/OW8lKXZ.jpg",
       "sizes": [
         5.5,
         6,
@@ -552,7 +552,7 @@
       "color": ["red","black"],
       "sale_price": 100,
       "price": 150,
-      "image": "Nike_Tiempo_Legend_9_Academy_TF.jpg",
+      "image": "https://i.imgur.com/Yd6XZXz.jpg",
       "sizes": [
         5.5,
         6,
@@ -571,7 +571,7 @@
       "color": ["white","black"],
       "sale_price": 110,
       "price": 120,
-      "image": "Nike_Defy_All_Day.jpg",
+      "image": "https://i.imgur.com/kTWBo57.jpg",
       "sizes": [
         5.5,
         6,
@@ -590,7 +590,7 @@
       "color": ["brown"],
       "sale_price": 120,
       "price": 150,
-      "image": "Nike_Air_Pegasus_83_Premium.jpg",
+      "image": "https://i.imgur.com/s2pkcQK.jpg",
       "sizes": [
         5.5,
         6,
